@@ -49,7 +49,7 @@ A Windows 11 Pro virtual machine was deployed inside Microsoft Azure to host the
 - Public IP Assignment
 - RDP Access
 
-![Azure VM Creation]
+Azure VM Creation
 <p></p>
 <img width="1535" height="1024" alt="azure-vm-creation jpg" src="https://github.com/user-attachments/assets/e6f9c0db-15ce-433a-a933-9f42d733c6c9">
 
@@ -60,7 +60,9 @@ A Windows 11 Pro virtual machine was deployed inside Microsoft Azure to host the
 
 After deployment, the virtual machine was successfully provisioned and accessible through Remote Desktop Protocol (RDP).
 
-![Azure VM Running](images/azure-vm-deployed.jpg)
+Azure VM Running
+<p></p>
+<img width="1672" height="941" alt="azure-vm-deployed jpg" src="https://github.com/user-attachments/assets/f22a6403-b3fe-4c15-90df-e08546fc9761")
 
 ---
 
