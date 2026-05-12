@@ -74,7 +74,9 @@ Internet Information Services (IIS) was installed to host the osTicket web appli
 
 After installation, localhost successfully displayed the IIS default landing page confirming the web server was operational.
 
-![IIS Verification](images/iis-verification.jpg)
+IIS Verification
+<p></p>
+(img width="1672" height="941" alt="iis-verification jpg" src="https://github.com/user-attachments/assets/7ee86589-aed2-4433-9ce0-389933681657")
 
 ---
 
