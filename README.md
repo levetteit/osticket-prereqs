@@ -50,8 +50,8 @@ A Windows 11 Pro virtual machine was deployed inside Microsoft Azure to host the
 - RDP Access
 
 ![Azure VM Creation]
-
-(img width="1535" height="1024" alt="azure-vm-creation jpg" src="https://github.com/user-attachments/assets/e6f9c0db-15ce-433a-a933-9f42d733c6c9" /)
+<p></p>
+<img width="1535" height="1024" alt="azure-vm-creation jpg" src="https://github.com/user-attachments/assets/e6f9c0db-15ce-433a-a933-9f42d733c6c9">
 
 
 ---
