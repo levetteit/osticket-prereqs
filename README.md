@@ -76,8 +76,7 @@ After installation, localhost successfully displayed the IIS default landing pag
 
 IIS Verification
 <p></p>
-(<img width="1672" height="941" alt="iis-verification jpg" src="https://github.com/user-attachments/assets/1f07f359-5890-4f05-86dd-a76e3adb2dce" />
-)
+<img width="1672" height="941" alt="iis-verification jpg" src="https://github.com/user-attachments/assets/1f07f359-5890-4f05-86dd-a76e3adb2dce")
 
 ---
 
