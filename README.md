@@ -88,7 +88,10 @@ PHP Manager, PHP 7.3.8, MySQL 5.5, and required dependencies were installed to s
 
 MySQL root credentials were configured during installation.
 
-![MySQL Configuration](images/mysql-configuration.jpg)
+MySQL Configuration
+<p></p>
+<img width="1672" height="941" alt="mysql-configuration jpg" src="https://github.com/user-attachments/assets/c088f504-e482-4263-8819-d51b74f75ea8" />
+
 
 ---
 
@@ -100,7 +103,10 @@ The osTicket installation files were extracted into the IIS web root directory a
 
 The installer successfully verified PHP extensions and server prerequisites.
 
-![osTicket Prerequisites](images/osticket-prerequisites.jpg)
+osTicket Prerequisites
+<p></p>
+<img width="1392" height="1130" alt="osticket-prerequisites jpg" src="https://github.com/user-attachments/assets/2f0f9fca-e0b2-4b8f-905b-8782b088926a" />
+
 
 ---
 
