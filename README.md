@@ -49,8 +49,10 @@ A Windows 11 Pro virtual machine was deployed inside Microsoft Azure to host the
 - Public IP Assignment
 - RDP Access
 
-![Azure VM Creation](<img width="1535" height="1024" alt="azure-vm-creation jpg" src="https://github.com/user-attachments/assets/141dc463-89ae-4f71-9e6b-84d71b93e806" />
-)
+![Azure VM Creation]
+
+(img width="1535" height="1024" alt="azure-vm-creation jpg" src="https://github.com/user-attachments/assets/e6f9c0db-15ce-433a-a933-9f42d733c6c9" /)
+
 
 ---
 
