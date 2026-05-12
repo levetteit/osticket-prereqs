@@ -133,7 +133,13 @@ After installation completed successfully, the osTicket admin login portal becam
 
 This confirmed the deployment was functioning properly.
 
-![Admin Login](images/admin-login.jpg)
+Admin Login
+<p></p>
+<img width="1448" height="1086" alt="admin-login jpg" src="https://github.com/user-attachments/assets/cbcdc562-0f21-4e45-abc5-d8e0b6484d68" />
+<p></p>
+<img width="1671" height="941" alt="admin-portal jpg" src="https://github.com/user-attachments/assets/e830fdf4-e5a3-409f-80bc-370f4460f486" />
+
+
 
 ---
 
