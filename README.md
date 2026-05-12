@@ -118,7 +118,10 @@ Using HeidiSQL, the MySQL database for osTicket was created and populated succes
 
 The database tables confirmed successful installation and communication between osTicket and MySQL.
 
-![Database Created](images/database-created.jpg)
+Database Created
+<p></p>
+<img width="1449" height="1085" alt="database-created jpg" src="https://github.com/user-attachments/assets/255505ba-125f-4b30-843f-2e1d669056a9" />
+
 
 ---
 
