@@ -8,7 +8,7 @@ The lab demonstrates the installation and configuration of a web-based help desk
 
 ---
 
-## Technologies Used
+## Technologies 
 
 - Microsoft Azure
 - Windows 11 Pro
@@ -21,7 +21,7 @@ The lab demonstrates the installation and configuration of a web-based help desk
 
 ---
 
-## Skills Demonstrated
+## Skills 
 
 - Virtual Machine Deployment
 - Cloud Computing Fundamentals
