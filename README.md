@@ -4,7 +4,7 @@
 
 This project documents the deployment and configuration of osTicket on a Microsoft Azure Windows 11 Pro virtual machine.
 
-The lab demonstrates the installation and configuration of a web-based help desk ticketing system using IIS, PHP, MySQL, and HeidiSQL. The purpose of this project was to simulate a real-world IT support environment while developing practical skills in system administration, cloud infrastructure, web server configuration, and troubleshooting.
+The lab demonstrates the installation and configuration of a web-based help desk ticketing system using IIS, PHP, MySQL, and HeidiSQL. The purpose of this project is to simulate a real-world IT support environment while developing practical skills in system administration, cloud infrastructure, web server configuration, and troubleshooting.
 
 ---
 
