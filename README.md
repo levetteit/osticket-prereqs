@@ -8,7 +8,9 @@ The lab demonstrates the installation and configuration of a web-based help desk
 
 ---
 
-## Technologies 
+## Technologies
+
+> **Historical lab versions:** PHP 7.3.8, MySQL 5.5, and osTicket v1.15.8 are legacy releases. These versions document the original exercise and should not be used as a current secure production baseline. A new deployment should use currently supported, compatible versions and appropriate access controls.
 
 - Microsoft Azure
 - Windows 11 Pro
@@ -47,7 +49,7 @@ A Windows 11 Pro virtual machine was deployed inside Microsoft Azure to host the
 - East US Region
 - Windows 11 Pro Image
 - Public IP Assignment
-- RDP Access
+- RDP Access (lab administration; restrict source IPs and avoid exposing RDP broadly in production)
 
 Azure VM Creation
 <p></p>
@@ -62,7 +64,7 @@ After deployment, the virtual machine was successfully provisioned and accessibl
 
 Azure VM Running
 <p></p>
-<img width="1672" height="941" alt="azure-vm-deployed jpg" src="https://github.com/user-attachments/assets/f22a6403-b3fe-4c15-90df-e08546fc9761")
+<img width="1672" height="941" alt="azure-vm-deployed jpg" src="https://github.com/user-attachments/assets/f22a6403-b3fe-4c15-90df-e08546fc9761"
 
 ---
 
@@ -76,7 +78,7 @@ After installation, localhost successfully displayed the IIS default landing pag
 
 IIS Verification
 <p></p>
-<img width="1672" height="941" alt="iis-verification jpg" src="https://github.com/user-attachments/assets/1f07f359-5890-4f05-86dd-a76e3adb2dce")
+<img width="1672" height="941" alt="iis-verification jpg" src="https://github.com/user-attachments/assets/1f07f359-5890-4f05-86dd-a76e3adb2dce"
 
 ---
 
@@ -131,7 +133,7 @@ Database Created
 
 After installation completed successfully, the osTicket admin login portal became accessible.
 
-This confirmed the deployment was functioning properly.
+This verifies that the administrative portal was accessible. It does not by itself establish that ticket intake, assignment, escalation, or resolution workflows were tested.
 
 Admin Login
 <p></p>
@@ -142,6 +144,24 @@ Admin Login
 
 
 ---
+
+## Verification and evidence status
+
+| Component | Evidence documented | Next verification |
+| --- | --- | --- |
+| Azure VM and RDP | Screenshots | Record access restrictions and redacted configuration |
+| IIS | Localhost screenshot | Record IIS configuration and application binding |
+| PHP prerequisites | Installer screenshot | Record sanitized extension/version output |
+| MySQL | Database screenshot | Verify database permissions without exposing secrets |
+| osTicket admin portal | Login and portal screenshots | Test ticket lifecycle end to end |
+
+## Troubleshooting and security considerations
+
+The project demonstrates coordination across Azure, IIS, PHP, MySQL, and osTicket. Specific errors, root causes, and fixes have not yet been documented; a future troubleshooting log should record them with screenshots or sanitized logs. Never publish database passwords, RDP credentials, or tokens. Restrict administrative access and use HTTPS for any deployment accessible beyond the isolated lab.
+
+## Next hands-on exercise: ticket lifecycle
+
+Create a fictional support request, assign an agent, record diagnosis and internal notes, escalate when appropriate, resolve and close the ticket, and capture sanitized screenshots of each step. **This workflow is planned, not claimed as completed.**
 
 ---
 
